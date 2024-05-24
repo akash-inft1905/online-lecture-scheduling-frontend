@@ -8,7 +8,6 @@ A React frontend for the Online Lecture Scheduling Module. This project provides
 - [Installation](#installation)
 - [Usage](#usage)
 - [Backend Repository](#backend-repository)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,16 +25,6 @@ A React frontend for the Online Lecture Scheduling Module. This project provides
    git clone https://github.com/akash-inft1905/online-lecture-scheduling-frontend.git
    cd online-lecture-scheduling-frontend
    ```
-
-## Screenshots
-
-![Screenshot 1](https://github.com/akash-inft1905/online-lecture-scheduling-frontend/screenshots/1.png)
-![Screenshot 2](https://github.com/akash-inft1905/online-lecture-scheduling-frontend/screenshots/2.png)
-![Screenshot 3](https://github.com/akash-inft1905/online-lecture-scheduling-frontend/screenshots/3.png)
-![Screenshot 4](https://github.com/akash-inft1905/online-lecture-scheduling-frontend/screenshots/4.png)
-![Screenshot 5](https://github.com/akash-inft1905/online-lecture-scheduling-frontend/screenshots/5.png)
-![Screenshot 6](https://github.com/akash-inft1905/online-lecture-scheduling-frontend/screenshots/6.png)
-![Screenshot 7](https://github.com/akash-inft1905/online-lecture-scheduling-frontend/screenshots/7.png)
 
 ## Backend Repository
 
