@@ -25,6 +25,14 @@ A React frontend for the Online Lecture Scheduling Module. This project provides
    git clone https://github.com/akash-inft1905/online-lecture-scheduling-frontend.git
    cd online-lecture-scheduling-frontend
    ```
+## Demo Creadentials
+for admin:- 
+   username:- akash
+   password:- akash1234
+
+for instructor demo you can create or use the following:
+username: user1
+password: user1234
 
 ## Backend Repository
 
